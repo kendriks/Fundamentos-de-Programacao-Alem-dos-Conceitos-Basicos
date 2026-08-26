@@ -1,3 +1,3 @@
 import modulo
 
-modulo.mult(10, 2)
+modulo.mult(10, 2) 
