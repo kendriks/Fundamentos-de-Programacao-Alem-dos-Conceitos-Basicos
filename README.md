@@ -20,5 +20,6 @@ O conteúdo aborda conceitos intermediários e avançados que ajudam a desenvolv
 
 Aprofundar os conhecimentos básicos de programação e desenvolver práticas que podem ser aplicadas independentemente da linguagem utilizada.
 
-**Instrutora:** Natalia Corea  
-**Linguagem utilizada:** Python
+## Certificado
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/f738caee44a4d624ca3d18bec0d36a57a7e14248c630f0744a1c4e2ffda375a0?trk=share_certificate)
